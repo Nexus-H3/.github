@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[assets/nexus_h3_logo.jpg](https://github.com/user-attachments/assets/284380e8-ac2d-4d22-9f67-56ab45ea6cdf)" alt="Nexus-H3 — Urban Mobility Observatory" width="520"/>
+<img src="https://github.com/user-attachments/assets/284380e8-ac2d-4d22-9f67-56ab45ea6cdf" alt="Nexus-H3 — Urban Mobility Observatory" width="520"/>
 
 # NEXUS-H3
 
