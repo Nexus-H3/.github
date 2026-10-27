@@ -133,10 +133,10 @@ The two regimes are strictly disjoint, and cross-epoch exports are blocked in bo
 
 | Dataset | Continuous Updates | Multi-Modal | Weather Fused | 3D Morphology | Infrastructure | Spatial Indexing | Public Access |
 |:---|:---:|:---:|:---:|:---:|:---:|:---|:---:|
-| METR-LA | ✗ | ✗ | ✗ | ✗ | ✗ | Point / Graph | ✓ |
-| PeMS-BAY | ✗ | ✗ | ✗ | ✗ | ✗ | Point / Graph | ✓ |
-| NYC Taxi | ✗ | ✗ | ✗ | ✗ | ✗ | Custom zones | ✓ |
-| CitiBike (NYC) | ✗ | ✗ | ✗ | ✗ | ✗ | Lat/Lon points | ✓ |
+| METR-LA | ✗ (Static Archive) | ✗ (Traffic Only) | ✗ | ✗ | ✗ | Point / Graph | ✓ |
+| PeMS-BAY | ✗ (Static Archive) | ✗ (Traffic Only) | ✗ | ✗ | ✗ | Point / Graph | ✓ |
+| NYC Taxi | ✗ (Monthly Batches) | ✗ Taxis Only) | ✗ | ✗ | ✗ | Custom zones | ✓ |
+| CitiBike (NYC) | ✗ (Monthly Batches) | ✗ (Bikes Only) | ✗ | ✗ | ✗ | Lat/Lon points | ✓ |
 | **Nexus-H3** | **✓ 3-min telemetry** | **✓ transit · bikes · traffic** | **✓ Open-Meteo** | **✓ OSM buildings** | **✓ stops · 5G** | **Uber H3 (Res-9)** | **✓ zero-egress** |
 
 ## 📈 Measured Results
